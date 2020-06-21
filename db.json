@@ -1,0 +1,27 @@
+{
+    "data": {
+        "id": 7609831,
+        "acctsessionid": "4936013",
+        "acctstatustype": "Interim-Update",
+        "acctuniquesessionid": "a185d7c9b08e9eadcd6a9bc06062d93c",
+        "adslagentcircuitid": "0x000404650001",
+        "adslagentremoteid": "0x0006e8cc1877ba7e",
+        "erxdhcpmacaddr": "ec43f604ce84",
+        "framedipaddress": "176.194.157.250",
+        "freeradiusclientnastype": "juniper",
+        "nasidentifier": "10.188.0.225",
+        "nasinterface": "ae1",
+        "nasportid": "ae1.demux0.3221226107:1325-1125",
+        "nasstackvlan": 1325,
+        "nasvlan": 1125,
+        "packetsrcipaddress": "212.1.254.225",
+        "switchmac": "e8cc1877ba7e",
+        "switchport": 1,
+        "switchvlan": 1125,
+        "systimestart": "2020-06-03 06:27:56",
+        "systimestop": "",
+        "systimeupdate": "2020-06-19 17:47:56",
+        "tmpinteger9": 1592578076,
+        "username": "15487629"
+    }
+}
